@@ -20,8 +20,8 @@ Otherwise change .env value `BROWSER = RemoteChromeBrowser` to `BROWSER = Chrome
     ```
 
 2. `[Page Object]` Describe required web pages as it mentioned at:
-   [Page-Object instructions](./framework/pages/readme.md)
-3. Consider using `Context()` and `I = Inject()` described at [Context Feature](./framework/base/readme.md)
+   [Page-Object instructions](./framework_inject/pages/readme.md)
+3. Consider using `Context()` and `I = Inject()` described at [Context Feature](./framework_inject/base/readme.md)
 4. Import the page and run your `autotest/code`
 
 <!-- TAGS: a1qa, A1QA, Itransition, autotests, Framework,  PlayWright, Selenium, Automation, Python -->
