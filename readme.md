@@ -1,4 +1,8 @@
 # Python WebDriver Framework | Inject Framework {I}
+```Python
+This documentation needs to be updated, feel free to leave your issues-comments
+```
+This is a framework for web/api software automation. You can use this Toolset to build your web automation scripts for any website or API. You can find some examples at [Page-Object instructions](./framework_inject/pages/readme.md) (look for "Page Example" as most usual way to write automation scripts). Please also note that I developed this for the people who already know how to automate web, so this documentation may need to be updated slightly with more use cases. Anyway feel free to reach me out by creating issues or pull requests.
 This project describes most common PlayWright webdriver and http API methods in useful way. 
 
 ### Remote Debugging Support
